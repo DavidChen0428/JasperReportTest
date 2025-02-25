@@ -14,7 +14,7 @@ public class MemberServiceImplTest {
 	
 	@Test
 	public void test() {
-		memberServiceImpl.addMember(new Member("tinawang","FEMALE","tina","1234","3333","taoyuan"));
+		memberServiceImpl.addMember(new Member("小明王","MALE","小明","1234","4444","彰化"));
 		System.out.println("add member success");
 	}
 }

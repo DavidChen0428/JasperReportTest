@@ -84,6 +84,38 @@
     		<version>6.0.0</version>
 		</dependency>
 		
+		<!-- Excel Handle-->
+		<!-- 讀取和寫入Microsoft Excel文件 -->
+		<dependency>
+    		<groupId>org.apache.poi</groupId>
+    		<artifactId>poi</artifactId>
+    		<version>5.2.3</version> 
+		</dependency>
+		<!-- 處理Excel2007及以後版本的文件格式(.xlsx) -->
+		<dependency>
+    		<groupId>org.apache.poi</groupId>
+    		<artifactId>poi-ooxml</artifactId>
+    		<version>5.2.3</version> <!-- 使用最新版本 -->
+		</dependency>
+		<!-- 處理Open XML格式的文件（.xlsx）-->
+		<dependency>
+    		<groupId>org.apache.poi</groupId>
+    		<artifactId>poi-ooxml-schemas</artifactId>
+    		<version>4.1.2</version>
+		</dependency>
+		<!-- 處理XML的，因為POI在處理Open XML格式時需要使用XMLBeans來解析和生成XML -->
+		<dependency>
+    		<groupId>org.apache.xmlbeans</groupId>
+    		<artifactId>xmlbeans</artifactId>
+    		<version>5.1.1</version>
+		</dependency>
+		
+		<!-- 自訂字型 -->
+		<dependency>
+			<groupId>com.david.font</groupId>
+			<artifactId>myFont</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
