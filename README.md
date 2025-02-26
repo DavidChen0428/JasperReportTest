@@ -53,6 +53,6 @@ https://ithelp.ithome.com.tw/m/articles/10355419
 - font(自定義字型)
 ---
 ## 設置application.properties
-1. 設置數據庫連接
-2. 設置API路徑
-3. 設置JPA配置
+- 設置數據庫連接
+- 設置API路徑
+- 設置JPA配置
