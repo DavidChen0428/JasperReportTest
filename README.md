@@ -51,3 +51,8 @@ https://ithelp.ithome.com.tw/m/articles/10355419
 - JasperReport(含font)(共2套件) -> 處理jasperreport資料
 - Apache.poi(共4套件) -> 處理excel的讀取及寫入
 - font(自定義字型)
+---
+## 設置application.properties
+1. 設置數據庫連接
+2. 設置API路徑
+3. 設置JPA配置
