@@ -30,6 +30,10 @@
     - service(測試是否能新增資料到資料庫端)
 - **pox.xml (載入套件)**
 ---
+## 參考連結
+https://blog.csdn.net/c_2333/article/details/126800234<br>
+https://ithelp.ithome.com.tw/m/articles/10355419
+---
 ## 使用工具
 - Eclipse
 - Jaspersoft Studio(生成JasperReport)
