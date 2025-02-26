@@ -30,6 +30,12 @@
     - service(測試是否能新增資料到資料庫端)
 - **pox.xml (載入套件)**
 ---
+## 使用工具
+- Eclipse
+- Jaspersoft Studio(生成JasperReport)
+- MySQL
+- Postman
+---
 ## 載入pom.xml 套件
 - Lombok
 - MySQL Driver
