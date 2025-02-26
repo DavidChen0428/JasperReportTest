@@ -29,3 +29,15 @@
     - pdf(測試下載至本地端方法功能是否正常)
     - service(測試是否能新增資料到資料庫端)
 - pox.xml (載入套件)
+---
+##載入pom.xml 套件##
+- Lombok
+- MySQL Driver
+- Spring Boot DevTools
+- Spring Web
+- Spring Data JPA
+- Thymeleaf
+- Swagger API(Restful線上介面)
+- JasperReport(含font)(共2套件) -> 處理jasperreport資料
+- Apache.poi(共4套件) -> 處理excel的讀取及寫入
+- font(自定義字型)
