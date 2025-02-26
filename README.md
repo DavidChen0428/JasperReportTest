@@ -1,4 +1,4 @@
-#**JasperReport**
+# **JasperReport**
 
 - src/main/java
   - com.project.davic
@@ -30,7 +30,7 @@
     - service(測試是否能新增資料到資料庫端)
 - **pox.xml (載入套件)**
 ---
-##載入pom.xml 套件##
+## 載入pom.xml 套件
 - Lombok
 - MySQL Driver
 - Spring Boot DevTools
